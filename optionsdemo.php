@@ -12,7 +12,6 @@ Domain Path: /languages/
 */
 
 require_once plugin_dir_path( __FILE__ )."/options-demo-form.php";
-require_once plugin_dir_path( __FILE__ )."/opti-sfsd-fsdfsfsdfsfsfsdfons-demo-form.php";
 
 class OptionsDemo_Settings_Page {
 	public function __construct() {
